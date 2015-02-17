@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="wastelandtiles" tilewidth="32" tileheight="32" spacing="1">
+  <image source="../../../../tilesets/wastelandtiles.png" width="626" height="659"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2E1qFEEYgOHK1l0giCFKtmbtNskqeIl4AiFkozAIggtBco9cJz+gwY0mKOg5rIIZKIr+S3XHaeVZPPRMenpCfy/VPTOHGyF8DSFcLl1F10vl46vsddeZu+ggvs9h9IpR0gxv4jy3oqcVdqLvRY93Ybh1n//cpBl+jnN5XDmbdNxt0eNNfH7S43X0Vo/GHl9G9Dgq1sfxwB4nejxIj5fF+tBjfI+a61Wa+3Z0Ho+7yO7zm/FvZ6Hf++hUj8YeNesj9Xi+7PEj82hj+L38eAbnPzdTXK9q7x8frY/Je6Tjvrl/TNrjZmQPn6+m7TF2fegxfY8nof07+LNMuW831H0f1KO9x684l5/Lz0f33Sa/G3osWhos9OjtcdAh7d8boKvHImN9dFvNcbXN+6yel3Pvapf3aKJHt/2WuXbNvXxN3rOvh+tVf4/Si2yb7GWPm6ya6vEwPfIuQ+TH6LHeHuUx6T0/hGG/KX7SY3CPmrWxX/H/GdajrUm5T4+/16PGus/nX6fHvOgxL3oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPyf/gDlyS/x
+  </data>
+ </layer>
+</map>
